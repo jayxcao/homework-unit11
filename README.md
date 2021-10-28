@@ -11,15 +11,15 @@ In this assignment we will build and evaluate several machine learning models to
 
 > **Which model had the best balanced accuracy score?**
 
-Naive Random Sampling produced 0.9956279972279972
+Under Sampling produced 0.9956813049736126
 
 > **Which model had the best recall score?**
 
-Naive Random Sampling produced 0.994532 recall
+Under Sampling produced 0.994635 recall
 
 > **Which model had the best geometric mean score?**
 
-Combination Sampling had the best Geometric Mean Score 0.995440
+Combination Sampling had the best Geometric Mean Score 0.995681
 
 
 
@@ -29,17 +29,16 @@ Combination Sampling had the best Geometric Mean Score 0.995440
 
 > **Which model had the best balanced accuracy score?**
 
-1. Easy Ensemble Classifier produced an accuracy score of: 0.9138746872620472
-'total_pymnt_inv')]
+1. Easy Ensemble Classifier produced an accuracy score of: 0.9139038962817925
 
 > **Which model had the best recall score?**
 
-2. Easy Ensemble Classifier produced recall of 0.942692
+2. Easy Ensemble Classifier produced recall of 0.942459
 
 
 > **Which model had the best geometric mean score?**
 
-3. Easy Ensemble Classsifer had the best geometric mean score of: 0.913420
+3. Easy Ensemble Classsifer had the best geometric mean score of: 0.913449
 
 
 > **What are the top three features?**
